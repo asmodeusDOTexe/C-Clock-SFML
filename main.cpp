@@ -32,7 +32,7 @@ int main()
     float radiusPoint;     //радиус рисочек 
     //координаты центра круга
     float CenterClockX = 450;  
-    float CenterClockY = 450;esktop\Cock Clock
+    float CenterClockY = 450;
     //координаты рисочек
     float xPoint, yPoint;
 
